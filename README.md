@@ -1,3 +1,3 @@
 # javascript
 Estudos de objeto
-- [array and object destructuring](https://github.com/Jeefelix/ReactHooks/commit/94e5c1bdaa197fd2092499f882052ed430691226)
+- [Estudo de Json, Json.parse e Switch case](https://github.com/Ketlin110/javascript/commit/6fe5d41ae0fba44faffb7b007ec89429b3033b6a)

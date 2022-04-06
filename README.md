@@ -8,3 +8,6 @@ Funções Síncronas e Assíncronas:
 
 Callback:
 - [Exemplo de callback](https://github.com/Ketlin110/Javascript/commit/4a708d5eb5f9fffcf0ec0a2961eee476287cf368)
+
+Promise:
+- [Exemplo de promise](https://github.com/Ketlin110/Javascript/commit/e0d1f958de85a43dbd5b2a958898b835870fbdfb)

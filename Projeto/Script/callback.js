@@ -6,6 +6,6 @@ function alertar(){
   let sobrenome = 'souza';
   console.log("nome completo = " +nome+' '+sobrenome);
 
-
+// exemplo de callback esperando um tempo determinado para função ser executada.
 
 

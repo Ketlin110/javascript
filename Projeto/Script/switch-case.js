@@ -25,8 +25,6 @@ switch (dia) {
     
     case 8:
         diaNome = 'teste';
-
 }
-
 document.getElementById("dia").innerHTML = "Hoje é:" + diaNome;
 console.log(diaNome);

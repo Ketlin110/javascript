@@ -14,3 +14,6 @@ Promise:
 
 Fetch:
 - [Requisição com fetch](https://github.com/Ketlin110/Javascript/commit/0d75f5dc1b57c1505c2d6f29ea077f007da2dfd7)
+
+Fetch 2:
+- [Enviando dados da API para a página html](https://github.com/Ketlin110/Javascript/commit/3dedb248f9b04515417bad55992b3ba7e7806494)

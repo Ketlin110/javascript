@@ -11,3 +11,6 @@ Callback:
 
 Promise:
 - [Exemplo de promise](https://github.com/Ketlin110/Javascript/commit/e0d1f958de85a43dbd5b2a958898b835870fbdfb)
+
+Fetch:
+- [Requisição com fetch](https://github.com/Ketlin110/Javascript/commit/0d75f5dc1b57c1505c2d6f29ea077f007da2dfd7)

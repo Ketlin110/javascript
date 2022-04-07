@@ -7,9 +7,14 @@ function loadPosts(){
          return resultado.json();
       })
       .then(function(json){
+         montarBlog(json); 
+
          document.getElementById("posts").innerHTML = json.length+ ' posts';
       })
       .catch(function(error){
         console.log("deu erro!");
       })
 }
+
+
+

@@ -17,3 +17,6 @@ Fetch:
 
 Fetch 2:
 - [Enviando dados da API para a página html](https://github.com/Ketlin110/Javascript/commit/3dedb248f9b04515417bad55992b3ba7e7806494)
+
+Async await:
+- [Requisição com async await](https://github.com/Ketlin110/Javascript/commit/a16d5f9bcd46b4119298f4d42b8e6a8c98ff4434)

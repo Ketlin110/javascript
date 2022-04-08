@@ -25,4 +25,4 @@ Fetch com Post:
 - [Requisição com Fetch e Post](https://github.com/Ketlin110/Javascript/commit/ac255b829c4c65cac3e16a354fce25c07ccd33c5)
 
 Upload de arquivo:
-- [exemplo de envio de arquivos com javascript](https://github.com/Ketlin110/Javascript/commit/c88c3317f27ef833ecd40702c723b81eb8e3ef37)
+- [Exemplo de envio de arquivos com javascript](https://github.com/Ketlin110/Javascript/commit/c88c3317f27ef833ecd40702c723b81eb8e3ef37)

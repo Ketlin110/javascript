@@ -26,3 +26,6 @@ Fetch com Post:
 
 Upload de arquivo:
 - [Exemplo de envio de arquivos com javascript](https://github.com/Ketlin110/Javascript/commit/c88c3317f27ef833ecd40702c723b81eb8e3ef37)
+
+Projeto pizza:
+- [manipulando DOM](https://github.com/Ketlin110/Javascript/commit/d586d9881e9d08d7e8d1d7ccd4380c463d6b60c5)

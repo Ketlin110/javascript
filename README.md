@@ -20,3 +20,6 @@ Fetch 2:
 
 Async await:
 - [Requisição com async await](https://github.com/Ketlin110/Javascript/commit/a16d5f9bcd46b4119298f4d42b8e6a8c98ff4434)
+
+Fetch com Post:
+- [Requisição com Fetch e Post](https://github.com/Ketlin110/Javascript/commit/ac255b829c4c65cac3e16a354fce25c07ccd33c5)

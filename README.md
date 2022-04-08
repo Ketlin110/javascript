@@ -30,3 +30,4 @@ Upload de arquivo:
 Projeto pizza:
 - [Manipulando DOM](https://github.com/Ketlin110/Javascript/commit/d586d9881e9d08d7e8d1d7ccd4380c463d6b60c5)
 - [Abertura de modal com animação](https://github.com/Ketlin110/Javascript/commit/df55eca5debb6b6b7140f42de5df4d5a38f69f73)
+- [Retornando informações no modal pelo id](https://github.com/Ketlin110/Javascript/commit/1922af93e2b6fec7418dd8ffef0d7de15116973b)

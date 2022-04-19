@@ -1,5 +1,8 @@
+let modalQt = 1;
 const c = (el)=>document.querySelector(el);
 const cs = (el)=>document.querySelectorAll(el);
+
+// listagem das pizzas
 
 pizzaJson.map((item, index)=>{
    let pizzaItem = c('.models .pizza-item').cloneNode(true); // clonando pizza-item
@@ -13,7 +16,7 @@ pizzaJson.map((item, index)=>{
    pizzaItem.querySelector('a').addEventListener('click', (e)=>{
       e.preventDefault();
       let key = e.target.closest('.pizza-item').getAttribute('data-key');
-      console.log("PIZZA CLICADA " +key);
+      modalQt = 1; 
       
       c('.pizzaBig img').src = pizzaJson[key].img;
       c('.pizzaInfo h1').innerHTML = pizzaJson[key].name;
@@ -26,6 +29,8 @@ pizzaJson.map((item, index)=>{
 
       });
 
+      c ('.pizzaInfo--qt').innerHTML = modalQt;
+
       c('.pizzaWindowArea').style.opacity = 0;
       c('.pizzaWindowArea').style.display = 'flex';
       setTimeout(()=>{
@@ -34,4 +39,30 @@ pizzaJson.map((item, index)=>{
      
    });
    c('.pizza-area').append(pizzaItem);
+});
+
+//eventos do modal
+
+function closeModal(){
+   c('.pizzaWindowArea').style.opacity = 0;
+   setTimeout(()=>{
+      c('.pizzaWindowArea').style.display = 'none';
+   }, 500);
+}
+cs('.pizzaInfo--cancelMobileButton, .pizzaInfo--cancelButton').forEach((item)=>{
+ item.addEventListener('click', closeModal);
+});
+
+c('.pizzaInfo--qtmenos').addEventListener('click', ()=>{
+   if (modalQt > 1){
+      modalQt--;
+      c ('.pizzaInfo--qt').innerHTML = modalQt;
+   }
+});
+
+c('.pizzaInfo--qtmais').addEventListener('click', ()=>{
+   modalQt++;
+   c ('.pizzaInfo--qt').innerHTML = modalQt;
+
+
 });

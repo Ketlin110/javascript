@@ -32,3 +32,4 @@ Projeto pizza:
 - [Abertura de modal com animação](https://github.com/Ketlin110/Javascript/commit/df55eca5debb6b6b7140f42de5df4d5a38f69f73)
 - [Retornando informações no modal pelo id](https://github.com/Ketlin110/Javascript/commit/1922af93e2b6fec7418dd8ffef0d7de15116973b)
 - [Adicionando e removendo a quantidade de itens](https://github.com/Ketlin110/Javascript/commit/039aa3d6bf7cce445acc429eb26703235f00da0f)
+- [Buscando itens no array e retornando no console](https://github.com/Ketlin110/Javascript/commit/b5069e573583b5bd814ed1c46559f7982018eb2a)

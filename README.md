@@ -33,3 +33,4 @@ Projeto pizza:
 - [Retornando informações no modal pelo id](https://github.com/Ketlin110/Javascript/commit/1922af93e2b6fec7418dd8ffef0d7de15116973b)
 - [Adicionando e removendo a quantidade de itens](https://github.com/Ketlin110/Javascript/commit/039aa3d6bf7cce445acc429eb26703235f00da0f)
 - [Buscando itens no array e retornando no console](https://github.com/Ketlin110/Javascript/commit/b5069e573583b5bd814ed1c46559f7982018eb2a)
+- [Calculando valores e inserindo no carrinho](https://github.com/Ketlin110/Javascript/commit/c42b02621f332625990791e4a7d1fdb0f561884c)

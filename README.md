@@ -27,7 +27,7 @@ Fetch com Post:
 Upload de arquivo:
 - [Exemplo de envio de arquivos com javascript](https://github.com/Ketlin110/Javascript/commit/c88c3317f27ef833ecd40702c723b81eb8e3ef37)
 
-Projeto pizza:
+Projeto Pizzaria:
 - [Manipulando DOM](https://github.com/Ketlin110/Javascript/commit/d586d9881e9d08d7e8d1d7ccd4380c463d6b60c5)
 - [Abertura de modal com animação](https://github.com/Ketlin110/Javascript/commit/df55eca5debb6b6b7140f42de5df4d5a38f69f73)
 - [Retornando informações no modal pelo id](https://github.com/Ketlin110/Javascript/commit/1922af93e2b6fec7418dd8ffef0d7de15116973b)

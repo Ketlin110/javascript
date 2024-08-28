@@ -5,7 +5,6 @@ JSON e Switch:
 
 Funções Síncronas e Assíncronas:
 - [Exemplo de função síncrona e assíncrona](https://github.com/Ketlin110/Javascript/commit/f3b22157b2ca667c5c79939a1c21d9f5a0668ca0)
-- [Exemplo de função Geradora e Recursiva](https://github.com/Ketlin110/Javascript/commit/b79ed5a892b323df6695eb18c4868b1f34861706)
 
 Callback:
 - [Exemplo de callback](https://github.com/Ketlin110/Javascript/commit/4a708d5eb5f9fffcf0ec0a2961eee476287cf368)
